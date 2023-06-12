@@ -3,7 +3,7 @@
 //  WeSplit
 //
 //  Created by Jovanna Fajardo on 2/3/23.
-//
+//testing git
 
 import SwiftUI
 
